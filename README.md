@@ -7,7 +7,7 @@ Project Overview: ETL
 The goal of the project is to take the role of a data engineer tasked with building a database that meets certain specifications.
 Design of the database using a provided requirements file and data tables from IMDB.
 
-Database Requirements:
+DATABASE REQUIREMENTS:
 
 1.- An actors table with unique actors and actress' names that also contains a numerical field for age and a boolean field to identify if the actor or actress is currently alive, deceased, or unknown.
 
