@@ -8,8 +8,8 @@ The goal of the project is to take the role of a data engineer tasked with build
 Design of the database using a provided requirements file and data tables from IMDB.
 
 
-## **Approach**
-The approach taken for this project was fully thorough group collaboration. Online meetings at a given time were carried on to work on each of the steps needed as one. We decided that this was the best way to make it work since we could all brainstorm along for the best ways to solve it and combine knowledge.
+## **Work Plan**
+The collaboration type taken for this project was fully thorough group collaboration. Online meetings at a given time were carried on to work on each of the steps needed as one. We decided that this was the best way to make it work since we could all brainstorm along for the best ways to solve it and combine knowledge.
 
 ## **DATABASE REQUIREMENTS:**
 
